@@ -1,0 +1,4 @@
+Sitemap: https://krisjanis-nesenbergs.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: krisjanis-nesenbergs.github.io
