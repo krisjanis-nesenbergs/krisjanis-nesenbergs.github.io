@@ -6,6 +6,14 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://krisjanis-nesenbergs.github.io/en/authors/krisjanis-nesenbergs.xml</loc>
+  <lastmod>2019-09-14T22:42:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://krisjanis-nesenbergs.github.io/en/authors/roberto-alsina.xml</loc>
+  <lastmod>2019-09-14T22:42:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://krisjanis-nesenbergs.github.io/en/categories/blog.xml</loc>
   <lastmod>2019-09-14T22:26:00Z</lastmod>
  </sitemap>
@@ -27,18 +35,18 @@
  </sitemap>
  <sitemap>
   <loc>https://krisjanis-nesenbergs.github.io/en/galleries/demo/rss.xml</loc>
-  <lastmod>2019-09-14T22:26:00Z</lastmod>
+  <lastmod>2019-09-14T22:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://krisjanis-nesenbergs.github.io/en/galleries/rss.xml</loc>
-  <lastmod>2019-09-14T22:26:00Z</lastmod>
+  <lastmod>2019-09-14T22:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://krisjanis-nesenbergs.github.io/en/rss.xml</loc>
-  <lastmod>2019-09-14T22:26:00Z</lastmod>
+  <lastmod>2019-09-14T22:42:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://krisjanis-nesenbergs.github.io/sitemap.xml</loc>
-  <lastmod>2019-09-14T22:26:00Z</lastmod>
+  <lastmod>2019-09-14T22:42:00Z</lastmod>
  </sitemap>
 </sitemapindex>
